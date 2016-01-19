@@ -7,7 +7,7 @@
 
 <h1>Icono del día</h1>
 
-<h2>¡Saludos, terrestres!</h2>
+<h2>¡Saludos, terrestres! Ahora está arreglado el saludo.</h2>
 
 <img src="randomicon.php"/>
 
