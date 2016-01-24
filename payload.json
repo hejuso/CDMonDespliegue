@@ -1,0 +1,10 @@
+{
+    "endpoints": [
+        {
+            "repo": "hejuso/CDMonDespliegue.git",
+            "branch": "master",
+            "action": "something has been changed on the server",
+            "run": "PUESTA_EN_PRODUCCION.sh"
+        }
+    ]
+}
