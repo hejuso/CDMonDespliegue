@@ -1,7 +1,7 @@
 <?php
 
 //$payload = json_decode($_REQUEST['payload']);
-file_get_contents('php://input');
+$payload = json_decode(file_get_contents('php://input'));
 
 //log the request
 file_put_contents('logs/github.txt', print_r($payload, TRUE), FILE_APPEND);
