@@ -9,7 +9,7 @@
 
 <h2>¡Saludos, terrestres! Ahora está arreglado el saludo.</h2>
 
-	<h3>Por favor... </h3>
+	<h3>Esto podria ser la prueba final. </h3>
 
 <img src="randomicon.php"/>
 
